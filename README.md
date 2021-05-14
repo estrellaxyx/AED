@@ -1,2 +1,2 @@
-# AED
-Proyectos de Algoritmo y Estructura de Datos(2019)
+# Estructura de datos
+Proyectos de 2019
